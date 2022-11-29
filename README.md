@@ -100,10 +100,7 @@ https://incentive.minima.global/home/pages/incentiveid
 # Additional Information
 If you can't connect to the node using https://ip:9003 then you can register Incentive ID through the Minima terminal.
 ```
-docker exec -it minima9001 /bin/sh
-```
-```
-sh /bin/minima
+docker exec -it minima9001 minima
 ```
 Basic commands:
 
