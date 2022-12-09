@@ -3,15 +3,12 @@ Minima Node Installation Instructions
 
 ## General information
 
-### Official documentation:
-```
-https://docs.minima.global/docs/runanode/selectplatform/linux_vps/
-```
-### System requirements:
-1 cpu, 
-1 ram, 
-20Gb ssd,
-Ubuntu 20.04
+### [Official documentation](https://docs.minima.global/docs/runanode/selectplatform/linux_vps/)
+### System requirements </br>
+1 Cpu </br> 
+1 Ram </br> 
+20Gb SSD </br>
+OS: Ubuntu 20.04
 
 ### Before starting the installation, register a Minima account:
 ```
@@ -102,15 +99,10 @@ If you can't connect to the node using https://ip:9003 then you can register Inc
 ```
 docker exec -it minima9001 minima
 ```
-Basic commands:
-
-help - show all commands
-
-mds - see password
-
-status - view the status of your node
-
-incentivecash - check balance
-
-incentivecash uid: - bind node id
+Basic commands </br>
+help - show all commands </br>
+mds - see password </br>
+status - view the status of your node </br>
+incentivecash - check balance </br>
+incentivecash uid: - bind node id </br>
 
